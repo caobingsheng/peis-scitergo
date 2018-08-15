@@ -1,6 +1,6 @@
 # peis-scitergo
 
-没事写着玩的
+没事写着玩的，拿实际业务练习golang
 
 ## 计划
 
